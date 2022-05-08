@@ -1,5 +1,5 @@
 ### Hi there My name is Munir 👋
-
+![Profile views](https://gpvc.arturio.dev/mamsheikh)
 <!--
 **Mamsheikh/Mamsheikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamsheikh)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mamsheikh&show_icons=true)  
