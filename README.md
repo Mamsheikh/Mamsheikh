@@ -4,8 +4,7 @@ Hi 👋 My name is Munir Ali Mohammed
 Software Engineer
 -----------------
 
-* 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [Portfolio](http://mamsheikh.vercel.app)
+* 🖥️  See my portfolio at [Portfolio](https://mamsheikh.dev)
 * ✉️  You can contact me at [mamsheikh123@gmail.com](mailto:mamsheikh123@gmail.com)
 
 ### Skills
